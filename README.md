@@ -1,5 +1,9 @@
 Google Chrome Sources Panel Theme
 -----------------------------
+
+**NOTE: This will only work with Chrome Canary**
+<br>
+
 **Look:**
 
 ![image alt][1]
